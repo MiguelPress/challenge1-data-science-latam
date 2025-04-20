@@ -1,4 +1,4 @@
-# challenge1-data-science-latam
+# Challenge 1 Alura data science latam
 Desafío es comenzar a desarrollar tus habilidades en análisis de datos con Python.
 
 
